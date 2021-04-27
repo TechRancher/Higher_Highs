@@ -1,6 +1,6 @@
 # Higher Highs  
 
-*Discloser*: _In order to demonstrate the functionality of my script, I used actual symbol in the chart image. However, I do not make recommendations or determine the suitability of any security or strategy for individual traders. Any investment decision you make in your self-directed account is solely your responsibility._  
+*Disclaimer*: _In order to demonstrate the functionality of my script, I used actual ticker symbols in the chart images. However, I do not make recommendations or determine the suitability of any security or strategy for individual traders. Any investment decision you make in your self-directed account is solely your responsibility. Be sure to backtest any strategy to determine if you understand the risks involved with each strategy._   
 
 I wrote this for ThinkorSwim:registered: platform. It can be used for your watchlist. You can use this code [Higher_Highs](http://tos.mx/s67Uy9X) with TOS.  
 
